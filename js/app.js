@@ -1,6 +1,6 @@
 // Application configuration
 const CONFIG = {
-  API_BASE_URL: 'http://localhost:3001',
+  API_BASE_URL: '',
   DEBUG_MODE: true,
   MAX_RETRIES: 3,
   RETRY_DELAY: 1000
